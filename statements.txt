@@ -1,0 +1,45 @@
+Exercises come from the following link https://pynative.com/python-basic-exercise-for-beginners/
+There are some solutions and hints posted there for each exercise, tho I will not look at them to encourage myself to find my own way to solve each of them.
+If I do end up looking at a hint or a solution, I'll state so (credits are important)
+
+Exercise 1: Calculate the multiplication and sum of two numbers
+Given two integer numbers return their product only if the product is equal to or lower than 1000, else return their sum.
+
+Exercise 2: Print the sum of the current number and the previous number
+Write a program to iterate the first 10 numbers and in each iteration, print the sum of the current and previous number.
+
+Exercise 3: Print characters from a string that are present at an even index number
+Write a program to accept a string from the user and display characters that are present at an even index number.
+For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.
+
+Exercise 4: Remove first n characters from a string
+Write a program to remove characters from a string starting from zero up to n and return a new string.
+For example:
+remove_chars("pynative", 4) so output must be tive. Here we need to remove first four characters from a string.
+
+Exercise 5: Check if the first and last number of a list is the same
+Write a function to return True if the first and last number of a given list is same. If numbers are different then return False.
+
+Exercise 6: Display numbers divisible by 5 from a list
+Iterate the given list of numbers and print only those numbers which are divisible by 5
+
+Exercise 7: Return the count of a given substring from a string
+Write a program to find how many times substring “Emma” appears in the given string.
+
+Exercise 8: Print the following pattern
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+Exercise 9: Check Palindrome Number
+Write a program to check if the given number is a palindrome number.
+A palindrome number is a number that is same after reverse. For example 545, is the palindrome numbers
+
+Exercise 10: Create a new list from a two list using the following condition
+Given a two list of numbers, write a program to create a new list such that the new list should contain odd numbers from the first list and even numbers from the second list.
+
+Exercise 11: Write a Program to extract each digit from an integer in the reverse order.
+For example, If the given int is 7536, the output shall be “6 3 5 7“, with a space separating the digits.
+
