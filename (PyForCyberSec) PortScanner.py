@@ -1,6 +1,6 @@
-from socket import *   # Credits: "Vinsloev Academy" in Youtube
+from socket import *   # Credits: "Vinsloev Academy" in Youtube. Don't use on networks you aren't allowed to.
                        # I didn't add any utility to the original, just following the steps
-                       # Add target IP and ports in line 33
+                       # Add target IP and ports in l. 33
 
 def conScan(tgtHost, tgtPort):
     try:
