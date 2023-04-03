@@ -1,3 +1,6 @@
+# Realiza un programa que calcule la media de tres números introducidos 
+# por teclado. 
+
 primerNum = int(input("Introduzca el primer número:\n"))
 segundoNum = int(input("Introduzca el segundo número:\n"))
 tercerNum = int(input("Introduzca el tercer número:\n"))

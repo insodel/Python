@@ -1,3 +1,8 @@
+# Realiza un programa que calcule la hipotenusa de un triángulo rectángulo. 
+# La longitud de los catetos se introducirá por teclado. Utiliza el teorema de 
+# Pitágoras.
+
+
 import math
 
 catetoA = int(input("Introduce el primer cateto:\n"))

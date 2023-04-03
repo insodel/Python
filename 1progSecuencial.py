@@ -1,3 +1,7 @@
+# Realiza un programa que pida un número, y calcule el perímetro de la 
+# circunferencia y el área del círculo con ese radio.
+
+
 import math
 
 radio = float(input("Introduzca el radio: \n"))
