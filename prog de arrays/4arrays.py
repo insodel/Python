@@ -9,6 +9,7 @@ for x in range(1,100):
     miArray.append(random.randint(0,50))
 
 numABuscar = int(input("Introduce el número a buscar:\n"))
+
 conteo = 0
 
 for x in range(len(miArray)):
